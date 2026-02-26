@@ -1,0 +1,7 @@
+{
+  "token": "YOUR_BOT_TOKEN",
+  "prefix": "!",
+  "logChannel": "mod-logs",
+  "mutedRole": "Muted",
+  "badWords": ["nigger", "nigga"]
+}
